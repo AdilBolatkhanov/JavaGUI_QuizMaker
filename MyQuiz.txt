@@ -1,0 +1,47 @@
+A class can be defined as {blank} to indicate that it can not be extended
+final
+
+A method in a subclass that has the same signature as a method in the superclass is an example of ______.
+overriding
+overloading
+composition
+an error
+
+Which of the following visibility modifiers will make a data field accessible only within: this class or any other class in the current package.
+default (empty)
+private
+protected
+public
+
+Which of the following modifiers will make a Java method behave like a function?
+static
+public
+void
+main
+
+A {blank} variable is a variable shared by all instances of the same class
+static
+
+JRE stands for Java {blank} Environment.
+Runtime
+
+Comparable is an example for Java {blank}
+interface
+
+If a class has no super class defined explicitly, its parent class is:
+Object
+Reference
+Java
+No parent class
+
+What does the following statement do? super()
+invokes the parent class' constructor
+indicates that the class is very good
+references the data field of the super class
+calls the method of the super class
+
+Which of the following can be used to compute and process floating-point numbers with any arbitary precision?
+BigDecimal
+double
+BigInteger
+BigDouble
